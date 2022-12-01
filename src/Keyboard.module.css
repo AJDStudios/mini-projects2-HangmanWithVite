@@ -1,3 +1,7 @@
+body {
+  background: linear-gradient(to right, hsl(2, 69%, 30%), hsl(2, 51%, 49%));
+}
+
 .btn {
     width: 100%;
     border: 3px solid black;
